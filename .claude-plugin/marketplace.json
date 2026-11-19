@@ -1,0 +1,8 @@
+{
+  "name": "summer-local",
+  "owner": { "name": "Summer" },
+  "plugins": [
+    { "name": "brain-dump", "source": "./brain-dump", "description": "/dump turns a voice-to-text brain dump into a clean, structured prompt" },
+    { "name": "task-progress", "source": "./task-progress", "description": "Progress bar above the prompt for Claude's task list, one bar per agent" }
+  ]
+}
